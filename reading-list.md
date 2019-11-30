@@ -1,5 +1,4 @@
 ---
-hide: true
 title: Reading List
 subtitle: a list of books I read
 layout: page
