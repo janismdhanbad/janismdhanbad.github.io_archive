@@ -9,7 +9,7 @@ order: 3
 I love reading, be it reasearch papers or books! Here are some:
 
 ### Research Papers 
-* [Deep Visual Domain Adaptation: A Survey](https://arxiv.org/pdf/1802.03601v4.pdf) *Currently Reading*
+* [Deep Visual Domain Adaptation: A Survey](https://arxiv.org/pdf/1802.03601v4.pdf) - *Currently Reading*
 
 ### Books
 1. Emotional Intelligence - *Currently reading*
