@@ -46,5 +46,7 @@ order: 2
 
 ## Online coursework:
 
-### I spend hundreds of hours doing hands-on projects from online courses and books
-
+### [Self-driving car engineer nano degree](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013) - Udacity
+### [Convolutional Neural Networks](https://www.coursera.org/account/accomplishments/verify/TKP3S55HZVBW?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate) - Coursera
+### [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/verify/RJLS6PV2M8NK?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate) - Coursera
+### [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/verify/ET7D8NBCTWRT?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate) - Coursera
