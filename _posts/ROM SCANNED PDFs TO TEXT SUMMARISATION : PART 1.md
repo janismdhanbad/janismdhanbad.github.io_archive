@@ -2,7 +2,7 @@
 title: FROM SCANNED PDFs TO TEXT SUMMARISATION : PART 1
 ---
 
-![After-Life](assets/images/Blog_scanned_pdf_part1.jpeg  "")
+![After-Life](assets/images/Blog_scanned_pdf_part1.jpeg  "OCRed image")
 
 What do you think after you see this picture? Probably nothing. Some millennials might think that it is a picture of Camera's Negative film but most of you won't be able to figure out the real importance of this image.
 
