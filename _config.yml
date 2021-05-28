@@ -4,7 +4,7 @@ description: Website and portfolio of Janpreet Singh, Data Scientist.
 
 author: Janpreet Singh
 email: janpreet@umich.edu
-avatar: 
+avatar: assets/images/avatar.jpg
 
 baseurl: ""
 url: "https://janpreetsingh.tech"
